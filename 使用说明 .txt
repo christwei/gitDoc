@@ -1,0 +1,1 @@
+github客户端是github这个面向开源及私有软件项目的托管平台的windows客户端，由于github客户端下载太慢的问题，小编为大家提供的是Github for Windows离线安装包，如果不能安装，请先安装微软的.NET再尝试，针对很多人没办法在线安装GitHub问题，这个是目前最新离线包。
